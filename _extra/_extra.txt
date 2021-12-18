@@ -1,0 +1,7 @@
+//run spring boot with cmd:
+
+https://confluence.atlassian.com/doc/setting-the-java_home-variable-in-windows-8895.html
+mvnw spring-boot:run
+https://stackoverflow.com/questions/47835901/how-to-start-up-spring-boot-application-via-command-line
+
+https://www.bezkoder.com/spring-boot-jpa-crud-rest-api/
